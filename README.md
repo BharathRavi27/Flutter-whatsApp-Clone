@@ -1,3 +1,3 @@
 # whatappclone
 
-A flutter based app on whatsapp home page UI.
+A flutter based app with whatsapp home page design.
