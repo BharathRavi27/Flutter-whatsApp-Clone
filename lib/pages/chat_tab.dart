@@ -44,7 +44,10 @@ class ChatScreenState extends State<ChatScreen> {
                     style: new TextStyle(color: Colors.grey, fontSize: 15.0),
                   ),
                 ),
-              )
+                onTap: () {
+                  Navigator.of(context).pushNamed("chat");
+                },
+              ),
             ],
           ),
     );
